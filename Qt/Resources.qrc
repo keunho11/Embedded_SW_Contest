@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>database.png</file>
+        <file>switch-off.png</file>
+        <file>switch-on.png</file>
+        <file>wallpaperbetter.png</file>
+        <file>2849830_multimedia_options_setting_settings_gear_icon.png</file>
+        <file>alarm_icon.png</file>
+        <file>arrows_back_icon.png</file>
+        <file>humi_icon.png</file>
+        <file>temp_icon.png</file>
+        <file>temperature_icon.png</file>
+        <file>background.png</file>
+        <file>OFF_IMG.png</file>
+        <file>ON_IMG.png</file>
+        <file>CLOCK_IMG.png</file>
+        <file>1_background.png</file>
+        <file>humi2.png</file>
+    </qresource>
+</RCC>
